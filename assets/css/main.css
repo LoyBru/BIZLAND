@@ -10,6 +10,23 @@
 # Font & Color Variables
 # Help: https://bootstrapmade.com/color-system/
 --------------------------------------------------------------*/
+
+/* PERSONALE */
+
+.swiper-wrapper {
+  display: flex;
+  justify-content: center; /* Centra le immagini orizzontalmente */
+  align-items: center; /* Centra le immagini verticalmente */
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* PERSONALE */
+
+
 /* Fonts */
 
 /* animation */
